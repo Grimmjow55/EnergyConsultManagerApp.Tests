@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyConsultManagerApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ca49fcbdd06c2d7feb4bac1a91815535647b238")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyConsultManagerApp.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyConsultManagerApp.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,40 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.vscode/*
+
+# Rider
+.idea/
+.idea/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# DotNet
+*.swp
+*~
+
+# Backup & report files
+*.bak
+*.log
+*.report
+*.tmp
+
+# Ignore NuGet Packages
+*.nupkg
